@@ -12,7 +12,7 @@ Interested in engineering systems that make a measurable difference from sensing
 
 $$P(x) = \arg\min_{x}\ \Big[\, \phi(x) + \lambda\,\psi(x) \,\Big]$$
 
-*Where **φ(x)** is the value a system creates, **ψ(x)** is its environmental cost, and **λ** is how much I care about the planet (spoiler: it's large).*
+*Where **φ(x)** is the value a system creates, **ψ(x)** is its environmental cost, and **λ** is how much I care about the planet.*
 
 ---
 
