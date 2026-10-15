@@ -1,16 +1,36 @@
-## Hi there 👋
+# Gift Sato Kuepouo
 
-<!--
-**Gift-Sato-Kuepouo/Gift-Sato-Kuepouo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Electrical & Computer Engineering (ECE)** — building at the intersection of *health*, *agriculture*, *environmental sustainability*, and *renewable energy*.
 
-Here are some ideas to get you started:
+> *"Design for the many, optimize for the planet."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in engineering systems that make a measurable difference — from sensing and embedded hardware to intelligent energy management.
+
+---
+
+### ⚡ The mindset, in one line
+
+$$P(x) = \arg\min_{x}\ \Big[\, \phi(x) + \lambda\,\psi(x) \,\Big]$$
+
+*Where **φ(x)** is the value a system creates, **ψ(x)** is its environmental cost, and **λ** is how much I care about the planet (spoiler: it's large).*
+
+---
+
+### 🌍 Focus areas
+
+- 🏥 **Health** — medical devices, health sensing, low-power diagnostics
+- 🌱 **Agriculture** — smart farming, precision sensing, automation
+- ♻️ **Environmental sustainability** — clean monitoring, waste-to-value systems
+- 🔋 **Renewable energy** — solar, storage, efficient power electronics
+
+---
+
+### 🛠️ Toolbox
+
+`Embedded C/C++` · `Python` · `MATLAB` · `SolidWorks` · `Signal Processing` · `Control Systems` · `Circuits` · `IoT`
+
+---
+
+### 🤝 Let's build
+
+Open to collaborating on projects in health, agriculture, sustainability, and renewable energy.
