@@ -4,7 +4,7 @@
 
 > *"Design for the many, optimize for the planet."*
 
-Interested in engineering systems that make a measurable difference — from sensing and embedded hardware to intelligent energy management.
+Interested in engineering systems that make a measurable difference from sensing and embedded hardware to intelligent energy management.
 
 ---
 
