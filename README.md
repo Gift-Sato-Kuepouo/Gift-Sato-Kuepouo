@@ -1,6 +1,6 @@
 # Gift Sato Kuepouo
 
-**Electrical & Computer Engineering (ECE)** : building at the intersection of *health*, *agriculture*, *environmental sustainability*, and *renewable energy*.
+**Electrical & Computer Engineering (ECE)**: building at the intersection of *health*, *agriculture*, *environmental sustainability*, and *renewable energy*.
 
  *"Design for the many, optimize for the planet."*
 
