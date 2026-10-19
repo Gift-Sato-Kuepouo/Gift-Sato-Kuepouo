@@ -6,7 +6,7 @@
 
 Interested in engineering systems that make a measurable difference from sensing and embedded hardware to intelligent energy management.
 
----
+
 
 ###  The mindset, in one line
 
@@ -14,7 +14,7 @@ $$P(x) = \arg\min_{x}\ \Big[\, \phi(x) + \lambda\,\psi(x) \,\Big]$$
 
 *Where **φ(x)** is the value a system creates, **ψ(x)** is its environmental cost, and **λ** is how much I care about the planet.*
 
----
+
 
 ###  Focus areas
 
@@ -23,7 +23,7 @@ $$P(x) = \arg\min_{x}\ \Big[\, \phi(x) + \lambda\,\psi(x) \,\Big]$$
 -  **Environmental sustainability** — clean monitoring, waste-to-value systems
 -  **Renewable energy** — solar, storage, efficient power electronics
 
----
+
 
 ###  Toolbox
 
