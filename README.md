@@ -2,7 +2,7 @@
 
 **Electrical & Computer Engineering (ECE)** — building at the intersection of *health*, *agriculture*, *environmental sustainability*, and *renewable energy*.
 
-> *"Design for the many, optimize for the planet."*
+ *"Design for the many, optimize for the planet."*
 
 Interested in engineering systems that make a measurable difference from sensing and embedded hardware to intelligent energy management.
 
