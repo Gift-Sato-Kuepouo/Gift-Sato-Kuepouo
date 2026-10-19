@@ -8,7 +8,7 @@ Interested in engineering systems that make a measurable difference from sensing
 
 ---
 
-### ⚡ The mindset, in one line
+###  The mindset, in one line
 
 $$P(x) = \arg\min_{x}\ \Big[\, \phi(x) + \lambda\,\psi(x) \,\Big]$$
 
@@ -16,12 +16,12 @@ $$P(x) = \arg\min_{x}\ \Big[\, \phi(x) + \lambda\,\psi(x) \,\Big]$$
 
 ---
 
-### 🌍 Focus areas
+###  Focus areas
 
-- 🏥 **Health** — medical devices, health sensing, low-power diagnostics
-- 🌱 **Agriculture** — smart farming, precision sensing, automation
-- ♻️ **Environmental sustainability** — clean monitoring, waste-to-value systems
-- 🔋 **Renewable energy** — solar, storage, efficient power electronics
+-  **Health** — medical devices, health sensing, low-power diagnostics
+-  **Agriculture** — smart farming, precision sensing, automation
+-  **Environmental sustainability** — clean monitoring, waste-to-value systems
+-  **Renewable energy** — solar, storage, efficient power electronics
 
 ---
 
@@ -31,6 +31,6 @@ $$P(x) = \arg\min_{x}\ \Big[\, \phi(x) + \lambda\,\psi(x) \,\Big]$$
 
 ---
 
-### 🤝 Let's build
+###  Let's build
 
 Open to collaborating on projects in health, agriculture, sustainability, and renewable energy.
