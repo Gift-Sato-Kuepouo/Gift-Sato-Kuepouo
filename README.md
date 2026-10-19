@@ -25,7 +25,7 @@ $$P(x) = \arg\min_{x}\ \Big[\, \phi(x) + \lambda\,\psi(x) \,\Big]$$
 
 ---
 
-### 🛠️ Toolbox
+###  Toolbox
 
 `Embedded C/C++` · `Python` · `MATLAB` · `SolidWorks` · `Signal Processing` · `Control Systems` · `Circuits` · `IoT`
 
