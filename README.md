@@ -16,10 +16,10 @@ $$P(x) = \arg\min_{x}\ \Big[\, \phi(x) + \lambda\,\psi(x) \,\Big]$$
 
 ###  Focus areas
 
--  **Health** — medical devices, health sensing, low-power diagnostics
--  **Agriculture** — smart farming, precision sensing, automation
--  **Environmental sustainability** — clean monitoring, waste-to-value systems
--  **Renewable energy** — solar, storage, efficient power electronics
+-  **Health**: medical devices, health sensing, low-power diagnostics
+-  **Agriculture**: smart farming, precision sensing, automation
+-  **Environmental sustainability**: clean monitoring, waste-to-value systems
+-  **Renewable energy**: solar, storage, efficient power electronics
 
 
 ###  Toolbox
